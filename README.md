@@ -10,7 +10,7 @@ Since a majority of games we host modded servers for include server software tha
 **WARNING** - We are **not** a hosting provider and do not offer modded servers/hardware to other server owners. Everything belongs to the community (LBG) and we have our own hand-picked staff, etc.
 
 ### Our Unique Anycast Network For (D)DoS Protection & Latency
-We have a unique Anycast network that was built by @gamemannn (Christian Deacon) and @Synkstar. @gamemann was focusing on the Anycast network's packet processing software which was made last year (2021), but cannot devote as much time due to [The Modding Community](https://moddingcommunity.com/). Therefore, @Synkstar has taken over the project's software code/features.
+We have a unique Anycast network that was built by [@gamemann](https://github.com/gamemann) (Christian Deacon) and [@Synkstar](https://github.com/Synkstar). [@gamemann](https://github.com/gamemann) was focusing on the Anycast network's packet processing software which was made last year (2021), but cannot devote as much time due to [The Modding Community](https://moddingcommunity.com/). Therefore, [@Synkstar](https://github.com/Synkstar) has taken over the project's software code/features.
 
 Additionally, the firewall/router we've made including the following advantages and features.
 
@@ -22,8 +22,8 @@ Additionally, the firewall/router we've made including the following advantages 
 
 ## Our Team
 ### Owners
-* @gamemann (AKA Christian Deacon)
-* @Synkstar
+* [@gamemann](https://github.com/gamemann) (AKA Christian Deacon)
+* [@Synkstar](https://github.com/Synkstar)
 
 ### Community Managers
 * Toxic
@@ -31,5 +31,5 @@ Additionally, the firewall/router we've made including the following advantages 
 * Pedro 
 
 ### System Administrators
-* 57_Wolve
+* [@57_Wolve](https://github.com/57_Wolve)
 * Kurante (AKA Fafy)
