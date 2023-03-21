@@ -23,6 +23,5 @@ Donate: https://subs.lbgaming.co
 * Pedro 
 
 ### System Administrators
-* @gamemann (AKA Christian Deacon)
 * 57_Wolve
 * Kurante (AKA Fafy)
