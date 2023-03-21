@@ -2,8 +2,6 @@
 ## Who Are We?
 We are a gaming community that hosts modded game servers in many games such as Counter-Strike, Rust, Garry's Mod, and Team fortress 2. We are a more laid-back gaming community and serve more loosened rules compared to a majority of other gaming communities. Obvously hate speech and such isnt allowed. 
 
-We support [The Modding Community](https://moddingcommunity.com/) and love working with modders/content creators to host content on our game servers to the community!
-
 ## Our Infrastructure
 We are currently running using Nasulex Networks's ASN and ip space ( ASN 142632, https://nasulex.net, owned by [@Synkstar](https://github.com/Synkstar) ) which is behind Path.net for ddos mitigation. LBG currently runs on a 12900ks tempest dedi w/ 64gb of ddr5 in Chicago US for North America and a 12900k hetzner dedi in Frankfurt Germany w/ 128gb ddr4 for the European Union.
 We also have a cheap OVH machine to run web applications but I may replace it in the future.
