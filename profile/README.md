@@ -23,5 +23,5 @@ Donate: https://subs.lbgaming.co
 * Pedro 
 
 ### System Administrators
-* 57_Wolve
+* [57_Wolve](https://github.com/57-Wolve)
 * Kurante (AKA Fafy)
