@@ -13,15 +13,3 @@ We used to run our own anycast with a custom made xdp program on ~30 vps's but w
 Discord: https://discord.lbgaming.co
 Donate: https://subs.lbgaming.co
 
-## Our Team
-### Owners
-* [@Synkstar](https://github.com/Synkstar)
-
-### Community Managers
-* Toxic
-* X2D
-* Pedro 
-
-### System Administrators
-* 57_Wolve
-* Kurante (AKA Fafy)
