@@ -19,17 +19,3 @@ Additionally, the firewall/router we've made including the following advantages 
 * We own the ASN and IP blocks which allows us to scale the Anycast network capacity to meet our needs.
 * More control over monitoring the whole network.
 * Many other pros!
-
-## Our Team
-### Owners
-* [@gamemann](https://github.com/gamemann) (AKA Christian Deacon)
-* [@Synkstar](https://github.com/Synkstar)
-
-### Community Managers
-* Toxic
-* X2D
-* Pedro 
-
-### System Administrators
-* [@57_Wolve](https://github.com/57_Wolve)
-* Kurante (AKA Fafy)
