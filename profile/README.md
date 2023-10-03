@@ -1,1 +1,1 @@
-LBG has shutdown
+Open source software from LBG
